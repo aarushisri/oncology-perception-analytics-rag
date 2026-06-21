@@ -167,8 +167,8 @@ Emerging trends in targeted cancer therapy are focused on harnessing and modifyi
 
 **Aarushi Srivastava**
 
-https://www.linkedin.com/in/aarushi-srivastava/
+LinkedIn - https://www.linkedin.com/in/aarushi-srivastava/
 
 
 
-LinkedIn: https://linkedin.com/in/aarushi-srivastava
+
