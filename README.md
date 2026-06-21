@@ -130,11 +130,11 @@ Emerging trends in targeted cancer therapy are focused on harnessing and modifyi
 
 ### Semantic Retrieval
 
-![Retrieval Results](screenshots/retrieval_results.png)
+![Retrieval Results](retrieval_results.png)
 
 ### RAG Insight Generation
 
-![RAG Output](screenshots/rag_output.png)
+![RAG Output](rag_output.png)
 
 ---
 
